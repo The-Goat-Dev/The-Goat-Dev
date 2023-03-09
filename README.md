@@ -1,6 +1,13 @@
 # Hi there, I'm nil - [Goat・Dev](https://discord.gg/5fnpvJaBqh)
 
-![Profile Views](https://komarev.com/ghpvc/?username=The-Goat-Dev&color=blue) 
+<p align="center">
+  <a href="https://github.com/The-Goat-Dev?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FThe-Goat-Dev"/></a>
+  <a href="https://github.com/The-Goat-Dev?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/The-Goat-Dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/The-Goat-Dev/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=The-Goat-Dev&style=for-the-badge&color=lightgrey"/></a>
+</p>
 
 <p align="center"><img height="200" src="https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"></p>
 
